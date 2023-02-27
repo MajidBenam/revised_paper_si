@@ -1,0 +1,1495 @@
+"NGA","PolID","Time","uniq","Dupl","Pastor"
+"Latium","ItLatCA",-3600,"y","n",3
+"Latium","ItLatCA",-3500,"n","n",3
+"Latium","ItLatCA",-3400,"n","n",3
+"Latium","ItLatCA",-3300,"n","n",3
+"Latium","ItLatCA",-3200,"n","n",3
+"Latium","ItLatCA",-3100,"n","n",3
+"Latium","ItLatCA",-3000,"n","n",3
+"Latium","ItLatCA",-2900,"n","n",3
+"Latium","ItLatCA",-2800,"n","n",3
+"Latium","ItLatCA",-2700,"n","n",3
+"Latium","ItLatCA",-2600,"n","n",3
+"Latium","ItLatCA",-2500,"n","n",3
+"Latium","ItLatCA",-2400,"n","n",3
+"Latium","ItLatCA",-2300,"n","n",3
+"Latium","ItLatCA",-2200,"n","n",3
+"Latium","ItLatCA",-2100,"n","n",3
+"Latium","ItLatCA",-2000,"n","n",3
+"Latium","ItLatCA",-1900,"n","n",3
+"Latium","ItLatBA",-1800,"y","n",3
+"Latium","ItLatBA",-1700,"n","n",3
+"Latium","ItLatBA",-1600,"n","n",3
+"Latium","ItLatBA",-1500,"n","n",3
+"Latium","ItLatBA",-1400,"n","n",3
+"Latium","ItLatBA",-1300,"n","n",3
+"Latium","ItLatBA",-1200,"n","n",3
+"Latium","ItLatBA",-1100,"y","n",3
+"Latium","ItLatIA",-1000,"y","n",3
+"Latium","ItLatIA",-900,"n","n",3
+"Latium","ItLatIA",-800,"n","n",3
+"Latium","ItRomRg",-700,"y","n",3
+"Latium","ItRomRg",-600,"y","n",3
+"Latium","ItRomER",-500,"y","n",3
+"Latium","ItRomER",-400,"y","n",3
+"Latium","ItRomER",-300,"y","n",3
+"Latium","ItRomMR",-200,"y","n",3
+"Latium","ItRomLR",-100,"y","n",3
+"Latium","ItRomPr",0,"y","n",3
+"Latium","ItRomPr",100,"y","n",3
+"Latium","ItRomPr",200,"y","n",3
+"Latium","TrRomDm",300,"y","y",3
+"Latium","ItRomWe",400,"y","n",3
+"Latium","ItOstrg",500,"y","n",3
+"Latium","ItRav**",600,"y","n",3
+"Latium","ItRav**",700,"y","n",3
+"Latium","ItStPet",800,"y","n",3
+"Latium","ItStPet",900,"y","n",3
+"Latium","ItPapEM",1000,"y","n",3
+"Latium","ItPapEM",1100,"y","n",3
+"Latium","ItPapHM",1200,"y","n",3
+"Latium","ItPapHM",1300,"y","n",3
+"Latium","ItPapRn",1400,"y","n",3
+"Latium","ItPapRn",1500,"y","n",3
+"Latium","ItPapM1",1600,"y","n",3
+"Latium","ItPapM2",1700,"y","n",3
+"Latium","ItPapM2",1800,"y","n",3
+"Paris Basin","FrBeakr",-3200,"y","n",2
+"Paris Basin","FrBeakr",-3100,"n","n",2
+"Paris Basin","FrBeakr",-3000,"n","n",3
+"Paris Basin","FrBeakr",-2900,"n","n",3
+"Paris Basin","FrBeakr",-2800,"n","n",3
+"Paris Basin","FrBeakr",-2700,"n","n",3
+"Paris Basin","FrBeakr",-2600,"n","n",3
+"Paris Basin","FrBeakr",-2500,"n","n",3
+"Paris Basin","FrBeakr",-2400,"n","n",3
+"Paris Basin","FrBeakr",-2300,"n","n",3
+"Paris Basin","FrAtlBA",-2200,"y","n",3
+"Paris Basin","FrAtlBA",-2100,"n","n",3
+"Paris Basin","FrAtlBA",-2000,"n","n",3
+"Paris Basin","FrAtlBA",-1900,"n","n",3
+"Paris Basin","FrAtlBA",-1800,"n","n",3
+"Paris Basin","FrAtlBA",-1700,"n","n",3
+"Paris Basin","FrAtlBA",-1600,"n","n",3
+"Paris Basin","FrAtlBA",-1500,"n","n",3
+"Paris Basin","FrAtlBA",-1400,"n","n",3
+"Paris Basin","FrAtlBA",-1300,"n","n",3
+"Paris Basin","FrAtlBA",-1200,"n","n",3
+"Paris Basin","FrAtlBA",-1100,"n","n",3
+"Paris Basin","FrHallA",-1000,"y","n",3
+"Paris Basin","FrHallB",-900,"y","n",3
+"Paris Basin","FrHallB",-800,"y","n",3
+"Paris Basin","FrHallC",-700,"y","n",3
+"Paris Basin","FrHallD",-600,"y","n",3
+"Paris Basin","FrHallD",-500,"n","n",3
+"Paris Basin","FrTeneA",-400,"y","n",3
+"Paris Basin","FrTeneB",-300,"y","n",3
+"Paris Basin","FrTeneB",-200,"y","n",3
+"Paris Basin","FrTeneC",-100,"y","n",3
+"Paris Basin","ItRomPr",0,"y","y",3
+"Paris Basin","ItRomPr",100,"n","y",3
+"Paris Basin","ItRomPr",200,"n","y",3
+"Paris Basin","TrRomDm",300,"y","y",3
+"Paris Basin","TrERom*",400,"y","y",3
+"Paris Basin","FrMervE",500,"y","n",3
+"Paris Basin","FrMervM",600,"y","n",3
+"Paris Basin","FrMervL",700,"y","n",3
+"Paris Basin","FrCarlE",800,"y","n",3
+"Paris Basin","FrCarlL",900,"y","n",3
+"Paris Basin","FrCaptE",1000,"y","n",3
+"Paris Basin","FrCaptE",1100,"y","n",3
+"Paris Basin","FrCaptL",1200,"y","n",3
+"Paris Basin","FrCaptL",1300,"y","n",3
+"Paris Basin","FrValoE",1400,"y","n",3
+"Paris Basin","FrValoL",1500,"y","n",3
+"Paris Basin","FrBurbE",1600,"y","n",3
+"Paris Basin","FrBurbL",1700,"y","n",3
+"Iceland","IsCommw",1000,"y","n",3
+"Iceland","IsCommw",1100,"y","n",3
+"Iceland","IsCommw",1200,"y","n",3
+"Iceland","NorKing",1300,"y","n",3
+"Crete","GrCrNeo",-7000,"y","n",2
+"Crete","GrCrNeo",-6900,"n","n",2
+"Crete","GrCrNeo",-6800,"n","n",2
+"Crete","GrCrNeo",-6700,"n","n",2
+"Crete","GrCrNeo",-6600,"n","n",2
+"Crete","GrCrNeo",-6500,"n","n",2
+"Crete","GrCrNeo",-6400,"n","n",2
+"Crete","GrCrNeo",-6300,"n","n",2
+"Crete","GrCrNeo",-6200,"n","n",2
+"Crete","GrCrNeo",-6100,"n","n",2
+"Crete","GrCrNeo",-6000,"n","n",2
+"Crete","GrCrNeo",-5900,"n","n",2
+"Crete","GrCrNeo",-5800,"y","n",2
+"Crete","GrCrNeo",-5700,"n","n",2
+"Crete","GrCrNeo",-5600,"n","n",2
+"Crete","GrCrNeo",-5500,"n","n",2
+"Crete","GrCrNeo",-5400,"n","n",2
+"Crete","GrCrNeo",-5300,"n","n",2
+"Crete","GrCrNeo",-5200,"y","n",2
+"Crete","GrCrNeo",-5100,"n","n",2
+"Crete","GrCrNeo",-5000,"n","n",3
+"Crete","GrCrNeo",-4900,"n","n",3
+"Crete","GrCrNeo",-4800,"y","n",3
+"Crete","GrCrNeo",-4700,"n","n",3
+"Crete","GrCrNeo",-4600,"n","n",3
+"Crete","GrCrNeo",-4500,"n","n",3
+"Crete","GrCrNeo",-4400,"n","n",3
+"Crete","GrCrNeo",-4300,"n","n",3
+"Crete","GrCrNeo",-4200,"n","n",3
+"Crete","GrCrNeo",-4100,"n","n",3
+"Crete","GrCrNeo",-4000,"n","n",3
+"Crete","GrCrNeo",-3900,"n","n",3
+"Crete","GrCrNeo",-3800,"n","n",3
+"Crete","GrCrNeo",-3700,"n","n",3
+"Crete","GrCrNeo",-3600,"n","n",3
+"Crete","GrCrNeo",-3500,"n","n",3
+"Crete","GrCrNeo",-3400,"n","n",3
+"Crete","GrCrNeo",-3300,"n","n",3
+"Crete","GrCrNeo",-3200,"n","n",3
+"Crete","GrCrNeo",-3100,"n","n",3
+"Crete","GrCrPre",-3000,"y","n",3
+"Crete","GrCrPre",-2900,"n","n",3
+"Crete","GrCrPre",-2800,"n","n",3
+"Crete","GrCrPre",-2700,"n","n",3
+"Crete","GrCrPre",-2600,"n","n",3
+"Crete","GrCrPre",-2500,"n","n",3
+"Crete","GrCrPre",-2400,"y","n",3
+"Crete","GrCrPre",-2300,"n","n",3
+"Crete","GrCrPre",-2200,"n","n",3
+"Crete","GrCrPre",-2100,"y","n",3
+"Crete","GrCrPre",-2000,"n","n",3
+"Crete","GrCrOPa",-1900,"y","n",3
+"Crete","GrCrOPa",-1800,"n","n",3
+"Crete","GrCrNPa",-1700,"y","n",3
+"Crete","GrCrNPa",-1600,"n","n",3
+"Crete","GrCrNPa",-1500,"n","n",3
+"Crete","GrCrMPa",-1400,"y","n",3
+"Crete","GrCrPPa",-1300,"y","n",3
+"Crete","GrCrFPa",-1200,"y","n",3
+"Crete","GrCrFPa",-1100,"n","n",3
+"Crete","GrCrGeo",-1000,"y","n",3
+"Crete","GrCrGeo",-900,"n","n",3
+"Crete","GrCrGeo",-800,"n","n",3
+"Crete","GrCrArc",-700,"y","n",3
+"Crete","GrCrArc",-600,"n","n",3
+"Crete","GrCrCls",-500,"y","n",3
+"Crete","GrCrCls",-400,"n","n",3
+"Crete","GrCrHel",-300,"y","n",3
+"Crete","GrCrHel",-200,"n","n",3
+"Crete","GrCrHel",-100,"n","n",3
+"Crete","ItRomPr",0,"y","y",3
+"Crete","ItRomPr",100,"n","y",3
+"Crete","ItRomPr",200,"n","y",3
+"Crete","TrRomDm",300,"y","y",3
+"Crete","TrERom*",400,"y","y",3
+"Crete","TrERom*",500,"n","y",2
+"Crete","TrERom*",600,"n","y",2
+"Crete","TrByzM1",700,"y","y",2
+"Crete","TrByzM1",800,"n","y",2
+"Crete","GrCrEmr",900,"y","n",2
+"Crete","TrByzM2",1000,"y","y",2
+"Crete","TrByzM3",1100,"y","n",2
+"Crete","TrByzM3",1200,"y","n",2
+"Crete","ItVenR3",1300,"y","n",3
+"Crete","ItVenR3",1400,"n","n",3
+"Crete","ItVenR3",1500,"n","n",3
+"Crete","ItVenR4",1600,"y","n",3
+"Crete","TrOttm4",1700,"y","y",3
+"Crete","TrOttm4",1800,"n","y",3
+"Upper Egypt","EgBadar",-4400,"y","n",3
+"Upper Egypt","EgBadar",-4300,"n","n",3
+"Upper Egypt","EgBadar",-4200,"n","n",3
+"Upper Egypt","EgBadar",-4100,"n","n",3
+"Upper Egypt","EgBadar",-4000,"n","n",3
+"Upper Egypt","EgBadar",-3900,"n","n",3
+"Upper Egypt","EgNaqa1",-3800,"y","n",3
+"Upper Egypt","EgNaqa1",-3700,"y","n",3
+"Upper Egypt","EgNaqa1",-3600,"y","n",3
+"Upper Egypt","EgNaqa2",-3500,"y","n",3
+"Upper Egypt","EgNaqa2",-3400,"y","n",3
+"Upper Egypt","EgNaqa3",-3300,"y","n",3
+"Upper Egypt","EgNaqa3",-3200,"n","n",3
+"Upper Egypt","EgDyn1*",-3100,"y","n",3
+"Upper Egypt","EgDyn1*",-3000,"n","n",2
+"Upper Egypt","EgDyn2*",-2900,"y","n",2
+"Upper Egypt","EgDyn2*",-2800,"y","n",2
+"Upper Egypt","EgDyn2*",-2700,"y","n",2
+"Upper Egypt","EgOldK1",-2600,"y","n",2
+"Upper Egypt","EgOldK1",-2500,"n","n",2
+"Upper Egypt","EgOldK1",-2400,"n","n",2
+"Upper Egypt","EgOldK2",-2300,"y","n",2
+"Upper Egypt","EgOldK2",-2200,"n","n",2
+"Upper Egypt","EgRegns",-2100,"y","n",2
+"Upper Egypt","EgMidKg",-2000,"y","n",2
+"Upper Egypt","EgMidKg",-1900,"y","n",2
+"Upper Egypt","EgMidKg",-1800,"y","n",2
+"Upper Egypt","EgThebH",-1700,"y","n",2
+"Upper Egypt","EgThebH",-1600,"n","n",2
+"Upper Egypt","EgNKThu",-1500,"y","n",2
+"Upper Egypt","EgNKThu",-1400,"y","n",2
+"Upper Egypt","EgNKThu",-1300,"y","n",2
+"Upper Egypt","EgNKRam",-1200,"y","n",2
+"Upper Egypt","EgNKRam",-1100,"y","n",2
+"Upper Egypt","EgThebL",-1000,"y","n",2
+"Upper Egypt","EgThebL",-900,"y","n",2
+"Upper Egypt","EgThebL",-800,"n","n",2
+"Upper Egypt","SdKusht",-700,"y","n",2
+"Upper Egypt","EgSaite",-600,"y","n",2
+"Upper Egypt","IrAchae",-500,"y","y",3
+"Upper Egypt","EgIntOc",-400,"y","n",3
+"Upper Egypt","EgPtol1",-300,"y","n",3
+"Upper Egypt","EgPtol2",-200,"y","n",3
+"Upper Egypt","EgPtol2",-100,"y","n",3
+"Upper Egypt","ItRomPr",0,"y","y",3
+"Upper Egypt","ItRomPr",100,"n","y",3
+"Upper Egypt","ItRomPr",200,"n","y",3
+"Upper Egypt","TrRomDm",300,"y","y",3
+"Upper Egypt","TrERom*",400,"y","y",3
+"Upper Egypt","TrERom*",500,"n","y",3
+"Upper Egypt","TrERom*",600,"n","y",3
+"Upper Egypt","SyCalUm",700,"y","y",3
+"Upper Egypt","IqAbbs1",800,"y","y",3
+"Upper Egypt","EgTulIk",900,"y","n",3
+"Upper Egypt","TnFatim",1000,"y","n",3
+"Upper Egypt","TnFatim",1100,"y","n",3
+"Upper Egypt","EgAyyub",1200,"y","n",3
+"Upper Egypt","EgMamBh",1300,"y","n",3
+"Upper Egypt","EgMamCP",1400,"y","n",3
+"Upper Egypt","EgMamBu",1500,"y","n",3
+"Upper Egypt","TrOttm3",1600,"y","y",3
+"Upper Egypt","TrOttm4",1700,"y","y",2
+"Niger Inland Delta","MlJeJe1",-200,"y","n",3
+"Niger Inland Delta","MlJeJe1",-100,"n","n",3
+"Niger Inland Delta","MlJeJe1",0,"n","n",3
+"Niger Inland Delta","MlJeJe2",100,"y","n",3
+"Niger Inland Delta","MlJeJe2",200,"n","n",3
+"Niger Inland Delta","MlJeJe2",300,"n","n",3
+"Niger Inland Delta","MlJeJe3",400,"y","n",3
+"Niger Inland Delta","MlJeJe3",500,"n","n",3
+"Niger Inland Delta","MlJeJe3",600,"n","n",3
+"Niger Inland Delta","MlJeJe3",700,"n","n",3
+"Niger Inland Delta","MlJeJe3",800,"n","n",3
+"Niger Inland Delta","MlJeJe4",900,"y","n",3
+"Niger Inland Delta","MrWagdM",1000,"y","n",3
+"Niger Inland Delta","MrWagdL",1100,"y","n",3
+"Niger Inland Delta","MrWagdL",1200,"n","n",3
+"Niger Inland Delta","MlMali*",1300,"y","n",2
+"Niger Inland Delta","MlMali*",1400,"y","n",2
+"Niger Inland Delta","MlSong2",1500,"y","n",2
+"Niger Inland Delta","MaSaadi",1600,"y","n",2
+"Niger Inland Delta","MlSegou",1700,"y","n",2
+"Niger Inland Delta","MlBaman",1800,"y","n",2
+"Ghanaian Coast","GhAshnE",1600,"y","n",2
+"Ghanaian Coast","GhAshnE",1700,"y","n",2
+"Ghanaian Coast","GhAshnL",1800,"y","n",2
+"Southern Mesopotamia","IqSoNeo",-9000,"y","n",1
+"Southern Mesopotamia","IqSoNeo",-8900,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8800,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8700,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8600,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8500,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8400,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8300,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8200,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8100,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-8000,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7900,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7800,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7700,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7600,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7500,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7400,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7300,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7200,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7100,"n","n",1
+"Southern Mesopotamia","IqSoNeo",-7000,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6900,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6800,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6700,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6600,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6500,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6400,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6300,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6200,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6100,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-6000,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-5900,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-5800,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-5700,"n","n",2
+"Southern Mesopotamia","IqSoNeo",-5600,"n","n",2
+"Southern Mesopotamia","IqUbaid",-5500,"y","n",2
+"Southern Mesopotamia","IqUbaid",-5400,"n","n",2
+"Southern Mesopotamia","IqUbaid",-5300,"n","n",2
+"Southern Mesopotamia","IqUbaid",-5200,"n","n",2
+"Southern Mesopotamia","IqUbaid",-5100,"n","n",2
+"Southern Mesopotamia","IqUbaid",-5000,"n","n",3
+"Southern Mesopotamia","IqUbaid",-4900,"n","n",3
+"Southern Mesopotamia","IqUbaid",-4800,"n","n",3
+"Southern Mesopotamia","IqUbaid",-4700,"n","n",3
+"Southern Mesopotamia","IqUbaid",-4600,"n","n",3
+"Southern Mesopotamia","IqUbaid",-4500,"n","n",3
+"Southern Mesopotamia","IqUbaid",-4400,"n","n",3
+"Southern Mesopotamia","IqUbaid",-4300,"n","n",3
+"Southern Mesopotamia","IqUruk*",-4200,"y","n",3
+"Southern Mesopotamia","IqUruk*",-4100,"n","n",3
+"Southern Mesopotamia","IqUruk*",-4000,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3900,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3800,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3700,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3600,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3500,"y","n",3
+"Southern Mesopotamia","IqUruk*",-3400,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3300,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3200,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3100,"n","n",3
+"Southern Mesopotamia","IqUruk*",-3000,"n","n",3
+"Southern Mesopotamia","IqEDyn*",-2900,"y","n",3
+"Southern Mesopotamia","IqEDyn*",-2800,"n","n",3
+"Southern Mesopotamia","IqEDyn*",-2700,"n","n",3
+"Southern Mesopotamia","IqEDyn*",-2600,"n","n",3
+"Southern Mesopotamia","IqEDyn*",-2500,"n","n",3
+"Southern Mesopotamia","IqEDyn*",-2400,"n","n",3
+"Southern Mesopotamia","IqAkkad",-2300,"y","n",3
+"Southern Mesopotamia","IqAkkad",-2200,"y","n",3
+"Southern Mesopotamia","IqUrIII",-2100,"y","n",3
+"Southern Mesopotamia","IqIsinL",-2000,"y","n",3
+"Southern Mesopotamia","IqIsinL",-1900,"n","n",3
+"Southern Mesopotamia","IqBabAm",-1800,"y","n",3
+"Southern Mesopotamia","IqBabAm",-1700,"n","n",3
+"Southern Mesopotamia","IqBabAm",-1600,"n","n",3
+"Southern Mesopotamia","IqBabKs",-1500,"y","n",3
+"Southern Mesopotamia","IqBabKs",-1400,"n","n",3
+"Southern Mesopotamia","IqBabKs",-1300,"n","n",3
+"Southern Mesopotamia","IqBabKs",-1200,"n","n",3
+"Southern Mesopotamia","IqIsin2",-1100,"y","n",3
+"Southern Mesopotamia","IqBazi*",-1000,"y","n",3
+"Southern Mesopotamia","IqDynE*",-900,"y","n",3
+"Southern Mesopotamia","IqDynE*",-800,"n","n",3
+"Southern Mesopotamia","IqNAssr",-700,"y","n",3
+"Southern Mesopotamia","IqNeoBb",-600,"y","n",3
+"Southern Mesopotamia","IrAchae",-500,"y","y",3
+"Southern Mesopotamia","IrAchae",-400,"n","y",3
+"Southern Mesopotamia","IrSeleu",-300,"y","y",3
+"Southern Mesopotamia","IrSeleu",-200,"n","y",3
+"Southern Mesopotamia","IrPart1",-100,"y","y",3
+"Southern Mesopotamia","IrPart1",0,"n","y",3
+"Southern Mesopotamia","IrPart2",100,"y","n",3
+"Southern Mesopotamia","IrPart2",200,"y","n",3
+"Southern Mesopotamia","IrSasn1",300,"y","y",3
+"Southern Mesopotamia","IrSasn1",400,"n","y",3
+"Southern Mesopotamia","IrSasn2",500,"y","y",3
+"Southern Mesopotamia","IrSasn2",600,"n","y",3
+"Southern Mesopotamia","SyCalUm",700,"y","n",3
+"Southern Mesopotamia","IqAbbs1",800,"y","n",3
+"Southern Mesopotamia","IqAbbs1",900,"y","n",3
+"Southern Mesopotamia","IrBuyid",1000,"y","y",3
+"Southern Mesopotamia","IrSeljq",1100,"y","y",3
+"Southern Mesopotamia","IqAbbs2",1200,"y","n",3
+"Southern Mesopotamia","IrIlkhn",1300,"y","y",3
+"Southern Mesopotamia","UzTimur",1400,"y","y",3
+"Southern Mesopotamia","IrSafvd",1500,"y","y",3
+"Southern Mesopotamia","TrOttm3",1600,"y","y",3
+"Southern Mesopotamia","TrOttm4",1700,"y","y",3
+"Southern Mesopotamia","TrOttm4",1800,"n","y",3
+"Susiana","IrPrCer",-7800,"y","n",2
+"Susiana","IrPrCer",-7700,"n","n",2
+"Susiana","IrPrCer",-7600,"n","n",2
+"Susiana","IrPrCer",-7500,"n","n",2
+"Susiana","IrPrCer",-7400,"n","n",2
+"Susiana","IrPrCer",-7300,"n","n",2
+"Susiana","IrForma",-7200,"y","n",2
+"Susiana","IrForma",-7100,"n","n",2
+"Susiana","IrArcha",-7000,"y","n",3
+"Susiana","IrArcha",-6900,"n","n",3
+"Susiana","IrArcha",-6800,"n","n",3
+"Susiana","IrArcha",-6700,"n","n",3
+"Susiana","IrArcha",-6600,"n","n",3
+"Susiana","IrArcha",-6500,"n","n",3
+"Susiana","IrArcha",-6400,"n","n",3
+"Susiana","IrArcha",-6300,"n","n",3
+"Susiana","IrArcha",-6200,"n","n",3
+"Susiana","IrArcha",-6100,"n","n",3
+"Susiana","IrKhzE*",-6000,"y","n",3
+"Susiana","IrKhzE*",-5900,"n","n",3
+"Susiana","IrKhzE*",-5800,"n","n",3
+"Susiana","IrKhzEM",-5700,"y","n",3
+"Susiana","IrKhzEM",-5600,"n","n",3
+"Susiana","IrKhzEM",-5500,"n","n",3
+"Susiana","IrKhzEM",-5400,"n","n",3
+"Susiana","IrKhzEM",-5300,"n","n",3
+"Susiana","IrKhzEM",-5200,"n","n",3
+"Susiana","IrKhzM*",-5100,"y","n",3
+"Susiana","IrKhzM*",-5000,"n","n",2
+"Susiana","IrKhzM*",-4900,"y","n",2
+"Susiana","IrKhzM*",-4800,"n","n",2
+"Susiana","IrKhzL*",-4700,"y","n",2
+"Susiana","IrKhzL*",-4600,"n","n",2
+"Susiana","IrKhzL*",-4500,"n","n",2
+"Susiana","IrKhzL*",-4400,"n","n",2
+"Susiana","IrSusa1",-4300,"y","n",2
+"Susiana","IrSusa1",-4200,"n","n",2
+"Susiana","IrSusa1",-4100,"n","n",2
+"Susiana","IrSusa1",-4000,"n","n",2
+"Susiana","IrSusa1",-3900,"y","n",2
+"Susiana","IrSusa2",-3800,"y","n",2
+"Susiana","IrSusa2",-3700,"y","n",2
+"Susiana","IrSusa2",-3600,"y","n",2
+"Susiana","IrSusa2",-3500,"y","n",2
+"Susiana","IrSusa2",-3400,"y","n",2
+"Susiana","IrSusa2",-3300,"n","n",2
+"Susiana","IrSusa2",-3200,"y","n",2
+"Susiana","IrSusa3",-3100,"y","n",2
+"Susiana","IrSusa3",-3000,"n","n",3
+"Susiana","IrSusa3",-2900,"n","n",3
+"Susiana","IrSusa3",-2800,"n","n",3
+"Susiana","IrSusa3",-2700,"n","n",3
+"Susiana","IrAwanE",-2600,"y","n",3
+"Susiana","IrAwanE",-2500,"n","n",3
+"Susiana","IrAwanE",-2400,"n","n",3
+"Susiana","IrAwanE",-2300,"n","n",3
+"Susiana","IqAkkad",-2200,"y","y",3
+"Susiana","IqUrIII",-2100,"y","y",3
+"Susiana","IrShima",-2000,"y","n",3
+"Susiana","IrSukkE",-1900,"y","n",3
+"Susiana","IrSukkE",-1800,"n","n",3
+"Susiana","IrSukkL",-1700,"y","n",3
+"Susiana","IrSukkL",-1600,"y","n",3
+"Susiana","IrMElm1",-1500,"y","n",3
+"Susiana","IrMElm2",-1400,"y","n",3
+"Susiana","IrMElm2",-1300,"y","n",3
+"Susiana","IrMElm3",-1200,"y","n",3
+"Susiana","IrElmCP",-1100,"y","n",3
+"Susiana","IrElmCP",-1000,"n","n",3
+"Susiana","IrNElm1",-900,"y","n",3
+"Susiana","IrNElm1",-800,"n","n",3
+"Susiana","IrNElm2",-700,"y","n",3
+"Susiana","IrNElm3",-600,"y","n",3
+"Susiana","IrAchae",-500,"y","n",3
+"Susiana","IrAchae",-400,"y","n",3
+"Susiana","IrSeleu",-300,"y","n",3
+"Susiana","IrSeleu",-200,"y","n",3
+"Susiana","IrPart1",-100,"y","n",3
+"Susiana","IrPart1",0,"y","n",3
+"Susiana","IrElym2",100,"y","n",3
+"Susiana","IrElym2",200,"n","n",3
+"Susiana","IrSasn1",300,"y","n",3
+"Susiana","IrSasn1",400,"y","n",3
+"Susiana","IrSasn2",500,"y","n",3
+"Susiana","IrSasn2",600,"y","n",3
+"Susiana","SyCalUm",700,"y","y",3
+"Susiana","IqAbbs1",800,"y","y",3
+"Susiana","IqAbbs1",900,"n","y",3
+"Susiana","IrBuyid",1000,"y","n",3
+"Susiana","IrSeljq",1100,"y","n",3
+"Susiana","IqAbbs2",1200,"y","y",3
+"Susiana","IrIlkhn",1300,"y","n",3
+"Susiana","UzTimur",1400,"y","y",3
+"Susiana","IrAkKoy",1500,"y","n",3
+"Susiana","IrSafvd",1600,"y","n",3
+"Susiana","IrSafvd",1700,"n","n",3
+"Susiana","IrQajar",1800,"y","n",3
+"Susiana","IrQajar",1900,"y","n",3
+"Galilee","IlCanaa",-2000,"y","n",3
+"Galilee","IlCanaa",-1900,"n","n",3
+"Galilee","IlCanaa",-1800,"y","n",3
+"Galilee","IlCanaa",-1700,"n","n",3
+"Galilee","IlCanaa",-1600,"n","n",3
+"Galilee","IlCanaa",-1500,"y","n",3
+"Galilee","IlCanaa",-1400,"n","n",3
+"Galilee","IlCanaa",-1300,"n","n",3
+"Galilee","IlCanaa",-1200,"n","n",3
+"Galilee","LbAcPho",-1100,"y","n",3
+"Galilee","IlYisrl",-1000,"y","n",3
+"Galilee","IlYisrl",-900,"y","n",3
+"Galilee","IlYisrl",-800,"y","n",3
+"Galilee","IqNAssr",-700,"y","y",3
+"Galilee","IqNeoBb",-600,"y","y",3
+"Galilee","IrAchae",-500,"y","y",3
+"Galilee","IrAchae",-400,"n","y",3
+"Galilee","EgPtol1",-300,"y","y",3
+"Galilee","EgPtol1",-200,"n","y",3
+"Galilee","IrSeleu",-200,"y","y",3
+"Galilee","IlJudea",-100,"y","n",3
+"Konya Plain","TrNeoER",-9600,"y","n",2
+"Konya Plain","TrNeoER",-9500,"n","n",2
+"Konya Plain","TrNeoER",-9400,"n","n",2
+"Konya Plain","TrNeoER",-9300,"n","n",2
+"Konya Plain","TrNeoER",-9200,"n","n",2
+"Konya Plain","TrNeoER",-9100,"n","n",2
+"Konya Plain","TrNeoER",-9000,"n","n",2
+"Konya Plain","TrNeoER",-8900,"n","n",2
+"Konya Plain","TrNeoER",-8800,"n","n",2
+"Konya Plain","TrNeoER",-8700,"n","n",2
+"Konya Plain","TrNeoER",-8600,"n","n",2
+"Konya Plain","TrNeoER",-8500,"n","n",2
+"Konya Plain","TrNeoER",-8400,"n","n",2
+"Konya Plain","TrNeoER",-8300,"n","n",2
+"Konya Plain","TrNeoER",-8200,"n","n",2
+"Konya Plain","TrNeoER",-8100,"n","n",2
+"Konya Plain","TrNeoER",-8000,"n","n",2
+"Konya Plain","TrNeoER",-7900,"n","n",2
+"Konya Plain","TrNeoER",-7800,"n","n",2
+"Konya Plain","TrNeoER",-7700,"n","n",2
+"Konya Plain","TrNeoER",-7600,"n","n",2
+"Konya Plain","TrNeoER",-7500,"n","n",2
+"Konya Plain","TrNeoER",-7400,"n","n",2
+"Konya Plain","TrNeoER",-7300,"n","n",2
+"Konya Plain","TrNeoER",-7200,"n","n",2
+"Konya Plain","TrNeoER",-7100,"n","n",2
+"Konya Plain","TrNeoCR",-7000,"y","n",2
+"Konya Plain","TrNeoCR",-6900,"n","n",2
+"Konya Plain","TrNeoCR",-6800,"n","n",2
+"Konya Plain","TrNeoCR",-6700,"n","n",2
+"Konya Plain","TrNeoLT",-6600,"y","n",2
+"Konya Plain","TrNeoLT",-6500,"n","n",2
+"Konya Plain","TrNeoLT",-6400,"n","n",2
+"Konya Plain","TrNeoLT",-6300,"n","n",2
+"Konya Plain","TrNeoLT",-6200,"n","n",2
+"Konya Plain","TrNeoLT",-6100,"n","n",2
+"Konya Plain","TrClcER",-6000,"y","n",2
+"Konya Plain","TrClcER",-5900,"n","n",2
+"Konya Plain","TrClcER",-5800,"n","n",2
+"Konya Plain","TrClcER",-5700,"n","n",2
+"Konya Plain","TrClcER",-5600,"n","n",2
+"Konya Plain","TrClcER",-5500,"n","n",2
+"Konya Plain","TrClcER",-5400,"n","n",2
+"Konya Plain","TrClcER",-5300,"n","n",2
+"Konya Plain","TrClcER",-5200,"n","n",2
+"Konya Plain","TrClcER",-5100,"n","n",2
+"Konya Plain","TrClcLT",-5000,"y","n",3
+"Konya Plain","TrClcLT",-4900,"n","n",3
+"Konya Plain","TrClcLT",-4800,"n","n",3
+"Konya Plain","TrClcLT",-4700,"n","n",3
+"Konya Plain","TrClcLT",-4600,"n","n",3
+"Konya Plain","TrClcLT",-4500,"n","n",3
+"Konya Plain","TrClcLT",-4400,"n","n",3
+"Konya Plain","TrClcLT",-4300,"n","n",3
+"Konya Plain","TrClcLT",-4200,"y","n",3
+"Konya Plain","TrClcLT",-4100,"n","n",3
+"Konya Plain","TrClcLT",-4000,"n","n",3
+"Konya Plain","TrClcLT",-3900,"y","n",3
+"Konya Plain","TrClcLT",-3800,"n","n",3
+"Konya Plain","TrClcLT",-3700,"n","n",3
+"Konya Plain","TrClcLT",-3600,"n","n",3
+"Konya Plain","TrClcLT",-3500,"n","n",3
+"Konya Plain","TrClcLT",-3400,"n","n",3
+"Konya Plain","TrClcLT",-3300,"n","n",3
+"Konya Plain","TrClcLT",-3200,"n","n",3
+"Konya Plain","TrClcLT",-3100,"n","n",3
+"Konya Plain","TrBrzER",-3000,"y","n",3
+"Konya Plain","TrBrzER",-2900,"n","n",3
+"Konya Plain","TrBrzER",-2800,"n","n",3
+"Konya Plain","TrBrzER",-2700,"n","n",3
+"Konya Plain","TrBrzER",-2600,"n","n",3
+"Konya Plain","TrBrzER",-2500,"n","n",3
+"Konya Plain","TrBrzER",-2400,"n","n",3
+"Konya Plain","TrBrzER",-2300,"n","n",3
+"Konya Plain","TrBrzER",-2200,"n","n",3
+"Konya Plain","TrBrzER",-2100,"n","n",3
+"Konya Plain","TrBrzMD",-2000,"y","n",3
+"Konya Plain","TrBrzMD",-1900,"n","n",3
+"Konya Plain","TrBrzMD",-1800,"y","n",3
+"Konya Plain","TrBrzMD",-1700,"y","n",3
+"Konya Plain","TrHatOK",-1600,"y","n",3
+"Konya Plain","TrBrzL2",-1500,"y","n",3
+"Konya Plain","TrBrzL2",-1400,"n","n",3
+"Konya Plain","TrHatNK",-1300,"y","n",3
+"Konya Plain","TrHatNK",-1200,"y","n",3
+"Konya Plain","TrNHitt",-1100,"y","n",3
+"Konya Plain","TrNHitt",-1000,"n","n",3
+"Konya Plain","TrTabal",-900,"y","n",3
+"Konya Plain","TrPhryg",-800,"y","n",3
+"Konya Plain","TrPhryg",-700,"n","n",3
+"Konya Plain","TrLydia",-600,"y","n",3
+"Konya Plain","IrAchae",-500,"y","y",3
+"Konya Plain","IrAchae",-400,"n","y",3
+"Konya Plain","TrLysim",-300,"y","n",3
+"Konya Plain","IrSeleu",-200,"y","y",3
+"Konya Plain","TrCappL",-100,"y","n",3
+"Konya Plain","ItRomPr",0,"y","y",3
+"Konya Plain","ItRomPr",100,"n","y",3
+"Konya Plain","ItRomPr",200,"n","y",3
+"Konya Plain","TrRomDm",300,"y","n",3
+"Konya Plain","TrERom*",400,"y","n",3
+"Konya Plain","TrERom*",500,"y","n",3
+"Konya Plain","TrERom*",600,"y","n",3
+"Konya Plain","TrByzM1",700,"y","n",3
+"Konya Plain","TrByzM1",800,"y","n",3
+"Konya Plain","TrByzM2",900,"y","n",3
+"Konya Plain","TrByzM2",1000,"y","n",3
+"Konya Plain","TrRum**",1100,"y","n",3
+"Konya Plain","TrRum**",1200,"y","n",3
+"Konya Plain","IrIlkhn",1300,"y","y",3
+"Konya Plain","TrOttm1",1400,"y","n",3
+"Konya Plain","TrOttm2",1500,"y","n",3
+"Konya Plain","TrOttm3",1600,"y","n",3
+"Konya Plain","TrOttm4",1700,"y","n",3
+"Konya Plain","TrOttm4",1800,"y","n",3
+"Yemeni Coastal Plain","YeNeoL*",-3500,"y","n",2
+"Yemeni Coastal Plain","YeNeoL*",-3400,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-3300,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-3200,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-3100,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-3000,"y","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2900,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2800,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2700,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2600,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2500,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2400,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2300,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2200,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2100,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-2000,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-1900,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-1800,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-1700,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-1600,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-1500,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-1400,"n","n",2
+"Yemeni Coastal Plain","YeNeoL*",-1300,"n","n",2
+"Yemeni Coastal Plain","YeLBA**",-1200,"y","n",2
+"Yemeni Coastal Plain","YeLBA**",-1100,"n","n",2
+"Yemeni Coastal Plain","YeLBA**",-1000,"n","n",2
+"Yemeni Coastal Plain","YeLBA**",-900,"n","n",2
+"Yemeni Coastal Plain","YeSabaC",-800,"y","n",2
+"Yemeni Coastal Plain","YeSabaC",-700,"n","n",2
+"Yemeni Coastal Plain","YeSabaC",-600,"n","n",2
+"Yemeni Coastal Plain","YeSabaC",-500,"n","n",2
+"Yemeni Coastal Plain","YeQatab",-400,"y","n",2
+"Yemeni Coastal Plain","YeQatab",-300,"n","n",2
+"Yemeni Coastal Plain","YeQatab",-200,"n","n",2
+"Yemeni Coastal Plain","YeSaRay",-100,"y","n",2
+"Yemeni Coastal Plain","YeSaRay",0,"n","n",2
+"Yemeni Coastal Plain","YeSaRay",100,"n","n",2
+"Yemeni Coastal Plain","EtAksm1",200,"y","n",2
+"Yemeni Coastal Plain","YeHmyr1",300,"y","n",2
+"Yemeni Coastal Plain","YeHmyr2",400,"y","n",2
+"Yemeni Coastal Plain","YeHmyr2",500,"n","n",2
+"Yemeni Coastal Plain","IrSasn2",600,"y","y",2
+"Yemeni Coastal Plain","SyCalUm",700,"y","y",2
+"Yemeni Coastal Plain","IqAbbs1",800,"y","y",2
+"Yemeni Coastal Plain","YeZiyad",900,"y","n",2
+"Yemeni Coastal Plain","YeZiyad",1000,"n","n",2
+"Yemeni Coastal Plain","YeWarLd",1100,"y","n",2
+"Yemeni Coastal Plain","EgAyyub",1200,"y","y",2
+"Yemeni Coastal Plain","YeRasul",1300,"y","n",2
+"Yemeni Coastal Plain","YeRasul",1400,"n","n",2
+"Yemeni Coastal Plain","YeTahir",1500,"y","n",2
+"Yemeni Coastal Plain","TrOttm3",1600,"y","y",2
+"Yemeni Coastal Plain","YeQasmi",1700,"y","n",2
+"Yemeni Coastal Plain","YeQasmi",1800,"n","n",2
+"Sogdiana","TjSaraz",-3500,"y","n",1
+"Sogdiana","TjSaraz",-3400,"n","n",1
+"Sogdiana","TjSaraz",-3300,"n","n",1
+"Sogdiana","TjSaraz",-3200,"n","n",1
+"Sogdiana","TjSaraz",-3100,"n","n",1
+"Sogdiana","TjSaraz",-3000,"n","n",3
+"Sogdiana","TjSaraz",-2900,"n","n",3
+"Sogdiana","TjSaraz",-2800,"n","n",3
+"Sogdiana","TjSaraz",-2700,"n","n",3
+"Sogdiana","TjSaraz",-2600,"n","n",3
+"Sogdiana","TjSaraz",-2500,"n","n",3
+"Sogdiana","TjSaraz",-2400,"n","n",3
+"Sogdiana","TjSaraz",-2300,"n","n",3
+"Sogdiana","TjSaraz",-2200,"n","n",3
+"Sogdiana","TjSaraz",-2100,"n","n",3
+"Sogdiana","KzAndro",-2000,"y","n",3
+"Sogdiana","KzAndro",-1900,"n","n",3
+"Sogdiana","KzAndro",-1800,"n","n",3
+"Sogdiana","KzAndro",-1700,"n","n",3
+"Sogdiana","KzAndro",-1600,"n","n",3
+"Sogdiana","KzAndro",-1500,"n","n",3
+"Sogdiana","UzKok01",-1400,"y","n",3
+"Sogdiana","UzKok01",-1300,"n","n",3
+"Sogdiana","UzKok01",-1200,"n","n",3
+"Sogdiana","UzKok01",-1100,"n","n",3
+"Sogdiana","UzKok01",-1000,"n","n",3
+"Sogdiana","UzKhw01",-900,"y","n",3
+"Sogdiana","UzKhw01",-800,"n","n",3
+"Sogdiana","UzKok02",-700,"y","n",3
+"Sogdiana","UzKok02",-600,"n","n",3
+"Sogdiana","IrAchae",-500,"y","y",3
+"Sogdiana","IrAchae",-400,"n","y",3
+"Sogdiana","IrSeleu",-300,"y","y",3
+"Sogdiana","AfGrBct",-200,"y","n",3
+"Sogdiana","AfTochr",-100,"y","n",3
+"Sogdiana","AfTochr",0,"n","n",3
+"Sogdiana","AfKushn",100,"y","n",3
+"Sogdiana","AfKushn",200,"y","n",3
+"Sogdiana","IrSasn1",300,"y","y",3
+"Sogdiana","AfKidar",400,"y","n",3
+"Sogdiana","AfHepht",500,"y","n",3
+"Sogdiana","KgWTurk",600,"y","n",3
+"Sogdiana","UzSogdi",700,"y","n",3
+"Sogdiana","IqAbbs1",800,"y","y",3
+"Sogdiana","UzSamnd",900,"y","n",3
+"Sogdiana","KgKarKh",1000,"y","n",3
+"Sogdiana","KgKarKh",1100,"y","n",3
+"Sogdiana","KgKarKh",1200,"y","n",3
+"Sogdiana","UzChagt",1300,"y","n",3
+"Sogdiana","UzTimur",1400,"y","n",3
+"Sogdiana","UzTimur",1500,"y","n",3
+"Sogdiana","UzJanid",1600,"y","n",3
+"Sogdiana","UzJanid",1700,"y","n",3
+"Orkhon Valley","MnXngnE",-1400,"y","n",3
+"Orkhon Valley","MnXngnE",-1300,"y","n",3
+"Orkhon Valley","MnXngnE",-1200,"n","n",3
+"Orkhon Valley","MnXngnE",-1100,"n","n",3
+"Orkhon Valley","MnXngnE",-1000,"n","n",3
+"Orkhon Valley","MnXngnE",-900,"n","n",3
+"Orkhon Valley","MnXngnE",-800,"n","n",3
+"Orkhon Valley","MnXngnE",-700,"y","n",3
+"Orkhon Valley","MnXngnE",-600,"n","n",3
+"Orkhon Valley","MnXngnE",-500,"y","n",3
+"Orkhon Valley","MnXngnE",-400,"y","n",3
+"Orkhon Valley","MnXngnE",-300,"n","n",3
+"Orkhon Valley","MnXngnM",-200,"y","n",3
+"Orkhon Valley","MnXngnM",-100,"n","n",3
+"Orkhon Valley","MnXngnL",0,"y","n",3
+"Orkhon Valley","MnXianb",100,"y","n",3
+"Orkhon Valley","MnXianb",200,"n","n",3
+"Orkhon Valley","MnRourn",300,"y","n",3
+"Orkhon Valley","MnRourn",400,"n","n",3
+"Orkhon Valley","MnRourn",500,"y","n",3
+"Orkhon Valley","MnETurk",600,"y","n",3
+"Orkhon Valley","MnTurk2",700,"y","n",3
+"Orkhon Valley","MnUigur",800,"y","n",3
+"Orkhon Valley","MnShiwe",900,"y","n",3
+"Orkhon Valley","MnKhitn",1000,"y","n",3
+"Orkhon Valley","MnKhitn",1100,"n","n",3
+"Orkhon Valley","MnMongE",1200,"y","n",3
+"Orkhon Valley","MnMngKh",1300,"y","n",3
+"Orkhon Valley","MnMongL",1400,"y","n",3
+"Orkhon Valley","MnMongL",1500,"y","n",3
+"Orkhon Valley","MnMongL",1600,"y","n",3
+"Orkhon Valley","MnZungh",1700,"y","n",3
+"Orkhon Valley","CnQingL",1800,"y","y",3
+"Orkhon Valley","CnQingL",1900,"n","y",3
+"Lena River Valley","RuYakuE",1400,"y","n",3
+"Lena River Valley","RuYakuE",1500,"n","n",3
+"Lena River Valley","RuYakuE",1600,"n","n",3
+"Lena River Valley","RuYakuL",1700,"y","n",3
+"Lena River Valley","RuYakuL",1800,"n","n",3
+"Lena River Valley","RuYakuL",1900,"y","n",3
+"Kachi Plain","PkAcerN",-7500,"y","n",1
+"Kachi Plain","PkAcerN",-7400,"n","n",1
+"Kachi Plain","PkAcerN",-7300,"n","n",1
+"Kachi Plain","PkAcerN",-7200,"n","n",1
+"Kachi Plain","PkAcerN",-7100,"n","n",1
+"Kachi Plain","PkAcerN",-7000,"n","n",2
+"Kachi Plain","PkAcerN",-6900,"n","n",2
+"Kachi Plain","PkAcerN",-6800,"n","n",2
+"Kachi Plain","PkAcerN",-6700,"n","n",2
+"Kachi Plain","PkAcerN",-6600,"n","n",2
+"Kachi Plain","PkAcerN",-6500,"n","n",2
+"Kachi Plain","PkAcerN",-6400,"n","n",2
+"Kachi Plain","PkAcerN",-6300,"n","n",2
+"Kachi Plain","PkAcerN",-6200,"n","n",2
+"Kachi Plain","PkAcerN",-6100,"n","n",2
+"Kachi Plain","PkAcerN",-6000,"n","n",2
+"Kachi Plain","PkAcerN",-5900,"n","n",2
+"Kachi Plain","PkAcerN",-5800,"n","n",2
+"Kachi Plain","PkAcerN",-5700,"n","n",2
+"Kachi Plain","PkAcerN",-5600,"n","n",2
+"Kachi Plain","PkCeraN",-5500,"y","n",2
+"Kachi Plain","PkCeraN",-5400,"n","n",2
+"Kachi Plain","PkCeraN",-5300,"n","n",2
+"Kachi Plain","PkCeraN",-5200,"n","n",2
+"Kachi Plain","PkCeraN",-5100,"n","n",2
+"Kachi Plain","PkCeraN",-5000,"n","n",2
+"Kachi Plain","PkCeraN",-4900,"n","n",2
+"Kachi Plain","PkCeraN",-4800,"n","n",2
+"Kachi Plain","PkCeraN",-4700,"n","n",2
+"Kachi Plain","PkCeraN",-4600,"n","n",2
+"Kachi Plain","PkCeraN",-4500,"n","n",2
+"Kachi Plain","PkCeraN",-4400,"n","n",2
+"Kachi Plain","PkCeraN",-4300,"n","n",2
+"Kachi Plain","PkCeraN",-4200,"n","n",2
+"Kachi Plain","PkCeraN",-4100,"n","n",2
+"Kachi Plain","PkChalc",-4000,"y","n",2
+"Kachi Plain","PkChalc",-3900,"n","n",2
+"Kachi Plain","PkChalc",-3800,"n","n",2
+"Kachi Plain","PkChalc",-3700,"n","n",2
+"Kachi Plain","PkChalc",-3600,"n","n",2
+"Kachi Plain","PkChalc",-3500,"n","n",2
+"Kachi Plain","PkChalc",-3400,"n","n",2
+"Kachi Plain","PkChalc",-3300,"n","n",2
+"Kachi Plain","PkPreUr",-3200,"y","n",2
+"Kachi Plain","PkPreUr",-3100,"n","n",2
+"Kachi Plain","PkPreUr",-3000,"n","n",3
+"Kachi Plain","PkPreUr",-2900,"n","n",3
+"Kachi Plain","PkPreUr",-2800,"n","n",3
+"Kachi Plain","PkPreUr",-2700,"n","n",3
+"Kachi Plain","PkPreUr",-2600,"n","n",3
+"Kachi Plain","PkUrbn1",-2500,"y","n",3
+"Kachi Plain","PkUrbn1",-2400,"n","n",3
+"Kachi Plain","PkUrbn1",-2300,"n","n",3
+"Kachi Plain","PkUrbn1",-2200,"n","n",3
+"Kachi Plain","PkUrbn2",-2100,"y","n",3
+"Kachi Plain","PkUrbn2",-2000,"n","n",3
+"Kachi Plain","PkUrbn2",-1900,"n","n",3
+"Kachi Plain","PkPostU",-1800,"y","n",3
+"Kachi Plain","PkPostU",-1700,"n","n",3
+"Kachi Plain","PkPostU",-1600,"y","n",3
+"Kachi Plain","PkPostU",-1500,"n","n",2
+"Kachi Plain","PkPostU",-1400,"n","n",2
+"Kachi Plain","PkProto",-1300,"y","n",2
+"Kachi Plain","PkProto",-1200,"n","n",2
+"Kachi Plain","PkProto",-1100,"n","n",2
+"Kachi Plain","PkProto",-1000,"n","n",2
+"Kachi Plain","PkProto",-900,"n","n",2
+"Kachi Plain","PkProto",-800,"y","n",2
+"Kachi Plain","PkProto",-700,"y","n",2
+"Kachi Plain","PkProto",-600,"n","n",2
+"Kachi Plain","IrAchae",-500,"y","y",2
+"Kachi Plain","IrAchae",-400,"n","y",2
+"Kachi Plain","InMaury",-300,"y","y",2
+"Kachi Plain","InMaury",-200,"n","y",2
+"Kachi Plain","PkIndGr",-100,"y","n",2
+"Kachi Plain","IrPart1",0,"y","y",2
+"Kachi Plain","AfKushn",100,"y","y",2
+"Kachi Plain","AfKushn",200,"n","y",2
+"Kachi Plain","IrSasn1",300,"y","y",2
+"Kachi Plain","IrSasn1",400,"n","y",2
+"Kachi Plain","AfHepht",500,"y","y",1
+"Kachi Plain","IrSasn2",600,"y","y",1
+"Kachi Plain","SyCalUm",700,"y","y",1
+"Kachi Plain","IqAbbs1",800,"y","y",1
+"Kachi Plain","PkSind1",900,"y","n",1
+"Kachi Plain","PkSind1",1000,"y","n",1
+"Kachi Plain","PkSind1",1100,"n","n",1
+"Kachi Plain","AfGhurd",1200,"y","n",1
+"Kachi Plain","InDelh*",1300,"y","n",1
+"Kachi Plain","PkSind2",1400,"y","n",1
+"Kachi Plain","PkSind2",1500,"y","n",1
+"Kachi Plain","InMugl*",1600,"y","n",1
+"Kachi Plain","InMugl*",1700,"y","n",1
+"Kachi Plain","AfDurrn",1800,"y","n",1
+"Middle Ganga","InGangN",-7000,"y","n",2
+"Middle Ganga","InGangN",-6900,"n","n",2
+"Middle Ganga","InGangN",-6800,"n","n",2
+"Middle Ganga","InGangN",-6700,"n","n",2
+"Middle Ganga","InGangN",-6600,"n","n",2
+"Middle Ganga","InGangN",-6500,"n","n",2
+"Middle Ganga","InGangN",-6400,"n","n",2
+"Middle Ganga","InGangN",-6300,"n","n",2
+"Middle Ganga","InGangN",-6200,"n","n",2
+"Middle Ganga","InGangN",-6100,"n","n",2
+"Middle Ganga","InGangN",-6000,"n","n",2
+"Middle Ganga","InGangN",-5900,"n","n",2
+"Middle Ganga","InGangN",-5800,"n","n",2
+"Middle Ganga","InGangN",-5700,"n","n",2
+"Middle Ganga","InGangN",-5600,"n","n",2
+"Middle Ganga","InGangN",-5500,"n","n",2
+"Middle Ganga","InGangN",-5400,"n","n",2
+"Middle Ganga","InGangN",-5300,"n","n",2
+"Middle Ganga","InGangN",-5200,"n","n",2
+"Middle Ganga","InGangN",-5100,"n","n",2
+"Middle Ganga","InGangN",-5000,"n","n",3
+"Middle Ganga","InGangN",-4900,"n","n",3
+"Middle Ganga","InGangN",-4800,"n","n",3
+"Middle Ganga","InGangN",-4700,"n","n",3
+"Middle Ganga","InGangN",-4600,"n","n",3
+"Middle Ganga","InGangN",-4500,"n","n",3
+"Middle Ganga","InGangN",-4400,"n","n",3
+"Middle Ganga","InGangN",-4300,"n","n",3
+"Middle Ganga","InGangN",-4200,"n","n",3
+"Middle Ganga","InGangN",-4100,"n","n",3
+"Middle Ganga","InGangN",-4000,"n","n",3
+"Middle Ganga","InGangN",-3900,"n","n",3
+"Middle Ganga","InGangN",-3800,"n","n",3
+"Middle Ganga","InGangN",-3700,"n","n",3
+"Middle Ganga","InGangN",-3600,"n","n",3
+"Middle Ganga","InGangN",-3500,"n","n",3
+"Middle Ganga","InGangN",-3400,"n","n",3
+"Middle Ganga","InGangN",-3300,"n","n",3
+"Middle Ganga","InGangN",-3200,"n","n",3
+"Middle Ganga","InGangN",-3100,"n","n",3
+"Middle Ganga","InGangC",-3000,"y","n",3
+"Middle Ganga","InGangC",-2900,"n","n",3
+"Middle Ganga","InGangC",-2800,"n","n",3
+"Middle Ganga","InGangC",-2700,"n","n",3
+"Middle Ganga","InGangC",-2600,"n","n",3
+"Middle Ganga","InGangC",-2500,"n","n",3
+"Middle Ganga","InGangC",-2400,"n","n",3
+"Middle Ganga","InGangC",-2300,"n","n",3
+"Middle Ganga","InGangC",-2200,"n","n",3
+"Middle Ganga","InGangC",-2100,"n","n",3
+"Middle Ganga","InGangC",-2000,"n","n",3
+"Middle Ganga","InGangC",-1900,"n","n",3
+"Middle Ganga","InGangC",-1800,"n","n",3
+"Middle Ganga","InGangC",-1700,"n","n",3
+"Middle Ganga","InGangC",-1600,"n","n",3
+"Middle Ganga","InGangC",-1500,"n","n",3
+"Middle Ganga","InGangC",-1400,"n","n",3
+"Middle Ganga","InGangC",-1300,"n","n",3
+"Middle Ganga","InGangC",-1200,"n","n",3
+"Middle Ganga","InGangC",-1100,"n","n",3
+"Middle Ganga","InGangC",-1000,"n","n",3
+"Middle Ganga","InGangC",-900,"n","n",3
+"Middle Ganga","InGangC",-800,"n","n",3
+"Middle Ganga","InGangC",-700,"n","n",3
+"Middle Ganga","InMahaJ",-600,"y","n",3
+"Middle Ganga","InMahaJ",-500,"n","n",3
+"Middle Ganga","InMahaJ",-400,"y","n",3
+"Middle Ganga","InMaury",-300,"y","n",3
+"Middle Ganga","InMaury",-200,"n","n",3
+"Middle Ganga","InSunga",-100,"y","n",3
+"Middle Ganga","InAyodE",0,"y","n",3
+"Middle Ganga","AfKushn",100,"y","y",3
+"Middle Ganga","AfKushn",200,"n","y",3
+"Middle Ganga","AfKushn",300,"n","y",3
+"Middle Ganga","InGupta",400,"y","n",3
+"Middle Ganga","InGupta",500,"n","n",3
+"Middle Ganga","InMagad",600,"y","n",3
+"Middle Ganga","InKanau",700,"y","n",3
+"Middle Ganga","InRasht",800,"y","y",3
+"Middle Ganga","InGurjr",900,"y","n",3
+"Middle Ganga","InGurjr",1000,"y","n",3
+"Middle Ganga","InGhdvl",1100,"y","n",3
+"Middle Ganga","InGhdvl",1200,"n","n",3
+"Middle Ganga","InDelh*",1300,"y","y",3
+"Middle Ganga","InDelh*",1400,"n","y",3
+"Middle Ganga","InDelh*",1500,"n","y",3
+"Middle Ganga","InMugl*",1600,"y","y",3
+"Middle Ganga","InMugl*",1700,"n","y",3
+"Middle Ganga","InMugl*",1800,"n","y",3
+"Deccan","InDecNL",-2700,"y","n",2
+"Deccan","InDecNL",-2600,"n","n",2
+"Deccan","InDecNL",-2500,"n","n",2
+"Deccan","InDecNL",-2400,"n","n",2
+"Deccan","InDecNL",-2300,"n","n",2
+"Deccan","InDecNL",-2200,"n","n",2
+"Deccan","InDecNL",-2100,"n","n",2
+"Deccan","InDecNL",-2000,"n","n",2
+"Deccan","InDecNL",-1900,"n","n",2
+"Deccan","InDecNL",-1800,"n","n",2
+"Deccan","InDecNL",-1700,"y","n",2
+"Deccan","InDecNL",-1600,"n","n",2
+"Deccan","InDecNL",-1500,"y","n",3
+"Deccan","InDecNL",-1400,"n","n",3
+"Deccan","InDecNL",-1300,"y","n",3
+"Deccan","InDecIA",-1200,"y","n",3
+"Deccan","InDecIA",-1100,"y","n",3
+"Deccan","InDecIA",-1000,"y","n",3
+"Deccan","InDecIA",-900,"y","n",3
+"Deccan","InDecIA",-800,"n","n",3
+"Deccan","InDecIA",-700,"n","n",3
+"Deccan","InDecIA",-600,"y","n",3
+"Deccan","InDecIA",-500,"y","n",3
+"Deccan","InDecIA",-400,"y","n",3
+"Deccan","InMaury",-300,"y","y",3
+"Deccan","InDecKg",-200,"y","n",3
+"Deccan","InSataL",-100,"y","n",3
+"Deccan","InSataL",0,"y","n",3
+"Deccan","InSataL",100,"y","n",3
+"Deccan","InSataL",200,"y","n",3
+"Deccan","InVakat",300,"y","n",3
+"Deccan","InVakat",400,"n","n",3
+"Deccan","InKadam",500,"y","n",3
+"Deccan","InChaBd",600,"y","n",3
+"Deccan","InChaBd",700,"n","n",3
+"Deccan","InRasht",800,"y","n",3
+"Deccan","InRasht",900,"n","n",3
+"Deccan","InChaKl",1000,"y","n",3
+"Deccan","InHoysa",1200,"y","n",3
+"Deccan","InKampi",1300,"y","n",3
+"Deccan","InVijay",1400,"y","n",3
+"Deccan","InVijay",1500,"y","n",3
+"Deccan","InVijay",1600,"n","n",3
+"Deccan","InMugl*",1700,"y","y",3
+"Deccan","GbEmpr2",1800,"y","n",2
+"Garo Hills","InGaroE",1800,"y","n",2
+"Garo Hills","InGaroL",1900,"y","n",2
+"Cambodian Basin","KhMekBA",-1200,"y","n",0
+"Cambodian Basin","KhMekBA",-1100,"n","n",0
+"Cambodian Basin","KhMekBA",-1000,"n","n",0
+"Cambodian Basin","KhMekBA",-900,"n","n",0
+"Cambodian Basin","KhMekBA",-800,"n","n",0
+"Cambodian Basin","KhMekBA",-700,"n","n",0
+"Cambodian Basin","KhMekBA",-600,"n","n",0
+"Cambodian Basin","KhMekIA",-500,"y","n",0
+"Cambodian Basin","KhMekIA",-400,"n","n",0
+"Cambodian Basin","KhMekIA",-300,"n","n",0
+"Cambodian Basin","KhMekIA",-200,"n","n",0
+"Cambodian Basin","KhMekIA",-100,"n","n",0
+"Cambodian Basin","KhMekIA",0,"n","n",0
+"Cambodian Basin","KhMekIA",100,"n","n",0
+"Cambodian Basin","KhMekIA",200,"n","n",0
+"Cambodian Basin","KhFunaE",300,"y","n",0
+"Cambodian Basin","KhFunaE",400,"n","n",0
+"Cambodian Basin","KhFunaE",500,"n","n",0
+"Cambodian Basin","KhFunaL",600,"y","n",0
+"Cambodian Basin","KhChenl",700,"y","n",0
+"Cambodian Basin","KhChenl",800,"n","n",0
+"Cambodian Basin","KhAngkE",900,"y","n",0
+"Cambodian Basin","KhAngkE",1000,"y","n",0
+"Cambodian Basin","KhAngkC",1100,"y","n",0
+"Cambodian Basin","KhAngkC",1200,"y","n",0
+"Cambodian Basin","KhAngkL",1300,"y","n",0
+"Cambodian Basin","KhAngkL",1400,"y","n",0
+"Cambodian Basin","KhCambd",1500,"y","n",0
+"Cambodian Basin","ThAyuth",1600,"y","n",0
+"Cambodian Basin","ThAyuth",1700,"y","n",0
+"Cambodian Basin","ThRattn",1800,"y","n",0
+"Central Java","IdCJBun",-400,"y","n",2
+"Central Java","IdCJBun",-300,"y","n",2
+"Central Java","IdCJBun",-200,"y","n",2
+"Central Java","IdCJBun",-100,"n","n",2
+"Central Java","IdCJBun",0,"n","n",2
+"Central Java","IdCJBun",100,"n","n",2
+"Central Java","IdCJBun",200,"y","n",2
+"Central Java","IdCJBun",300,"n","n",2
+"Central Java","IdCJBun",400,"n","n",2
+"Central Java","IdKalin",500,"y","n",3
+"Central Java","IdKalin",600,"n","n",3
+"Central Java","IdKalin",700,"y","n",3
+"Central Java","IdMedng",800,"y","n",3
+"Central Java","IdMedng",900,"y","n",3
+"Central Java","IdMedng",1000,"n","n",3
+"Central Java","IdKedir",1100,"y","n",3
+"Central Java","IdKedir",1200,"y","n",3
+"Central Java","IdMajap",1300,"y","n",3
+"Central Java","IdMajap",1400,"n","n",3
+"Central Java","IdMajap",1500,"n","n",3
+"Central Java","IdMatrm",1600,"y","n",3
+"Central Java","IdMatrm",1700,"n","n",3
+"Kapuasi Basin","IdBrokE",1700,"y","n",3
+"Kapuasi Basin","IdBrokE",1800,"n","n",3
+"Kapuasi Basin","IdBrokL",1900,"y","n",3
+"Middle Yellow River Valley","CnPeili",-7000,"y","n",0
+"Middle Yellow River Valley","CnPeili",-6900,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6800,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6700,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6600,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6500,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6400,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6300,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6200,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6100,"n","n",0
+"Middle Yellow River Valley","CnPeili",-6000,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5900,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5800,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5700,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5600,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5500,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5400,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5300,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5200,"n","n",0
+"Middle Yellow River Valley","CnPeili",-5100,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-5000,"y","n",0
+"Middle Yellow River Valley","CnYngsh",-4900,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4800,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4700,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4600,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4500,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4400,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4300,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4200,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4100,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-4000,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3900,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3800,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3700,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3600,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3500,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3400,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3300,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3200,"n","n",0
+"Middle Yellow River Valley","CnYngsh",-3100,"n","n",0
+"Middle Yellow River Valley","CnLngsh",-3000,"y","n",2
+"Middle Yellow River Valley","CnLngsh",-2900,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-2800,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-2700,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-2600,"y","n",2
+"Middle Yellow River Valley","CnLngsh",-2500,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-2400,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-2300,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-2200,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-2100,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-2000,"n","n",2
+"Middle Yellow River Valley","CnLngsh",-1900,"n","n",2
+"Middle Yellow River Valley","CnErlit",-1800,"y","n",2
+"Middle Yellow River Valley","CnErlit",-1700,"y","n",2
+"Middle Yellow River Valley","CnErlig",-1600,"y","n",2
+"Middle Yellow River Valley","CnErlig",-1500,"n","n",2
+"Middle Yellow River Valley","CnErlig",-1400,"n","n",2
+"Middle Yellow River Valley","CnErlig",-1300,"n","n",2
+"Middle Yellow River Valley","CnShang",-1200,"y","n",2
+"Middle Yellow River Valley","CnShang",-1100,"n","n",2
+"Middle Yellow River Valley","CnWZhou",-1000,"y","n",2
+"Middle Yellow River Valley","CnWZhou",-900,"y","n",2
+"Middle Yellow River Valley","CnWZhou",-800,"n","n",2
+"Middle Yellow River Valley","CnJinSA",-700,"y","n",2
+"Middle Yellow River Valley","CnJinSA",-600,"n","n",2
+"Middle Yellow River Valley","CnJinSA",-500,"n","n",2
+"Middle Yellow River Valley","CnWeiWS",-400,"y","n",2
+"Middle Yellow River Valley","CnWeiWS",-300,"n","n",2
+"Middle Yellow River Valley","CnWHan*",-200,"y","n",2
+"Middle Yellow River Valley","CnWHan*",-100,"y","n",2
+"Middle Yellow River Valley","CnWHan*",0,"y","n",2
+"Middle Yellow River Valley","CnEHan*",100,"y","n",2
+"Middle Yellow River Valley","CnEHan*",200,"y","n",2
+"Middle Yellow River Valley","CnErJin",300,"y","n",2
+"Middle Yellow River Valley","CnNWei*",400,"y","n",2
+"Middle Yellow River Valley","CnNWei*",500,"y","n",2
+"Middle Yellow River Valley","CnSui**",600,"y","n",2
+"Middle Yellow River Valley","CnTangE",700,"y","n",2
+"Middle Yellow River Valley","CnTangL",800,"y","n",2
+"Middle Yellow River Valley","CnTangL",900,"y","n",2
+"Middle Yellow River Valley","CnNSong",1000,"y","n",2
+"Middle Yellow River Valley","CnNSong",1100,"y","n",2
+"Middle Yellow River Valley","CnLrJin",1200,"y","n",2
+"Middle Yellow River Valley","CnYuan*",1300,"y","n",2
+"Middle Yellow River Valley","CnMing*",1400,"y","n",2
+"Middle Yellow River Valley","CnMing*",1500,"y","n",2
+"Middle Yellow River Valley","CnMing*",1600,"y","n",2
+"Middle Yellow River Valley","CnQingE",1700,"y","n",2
+"Middle Yellow River Valley","CnQingL",1800,"y","n",2
+"Middle Yellow River Valley","CnQingL",1900,"y","n",2
+"Kansai","JpJomo1",-13600,"y","n",NA
+"Kansai","JpJomo1",-13500,"n","n",NA
+"Kansai","JpJomo1",-13400,"n","n",NA
+"Kansai","JpJomo1",-13300,"n","n",NA
+"Kansai","JpJomo1",-13200,"n","n",NA
+"Kansai","JpJomo1",-13100,"n","n",NA
+"Kansai","JpJomo1",-13000,"n","n",NA
+"Kansai","JpJomo1",-12900,"n","n",NA
+"Kansai","JpJomo1",-12800,"n","n",NA
+"Kansai","JpJomo1",-12700,"n","n",NA
+"Kansai","JpJomo1",-12600,"n","n",NA
+"Kansai","JpJomo1",-12500,"n","n",NA
+"Kansai","JpJomo1",-12400,"n","n",NA
+"Kansai","JpJomo1",-12300,"n","n",NA
+"Kansai","JpJomo1",-12200,"n","n",NA
+"Kansai","JpJomo1",-12100,"n","n",NA
+"Kansai","JpJomo1",-12000,"n","n",NA
+"Kansai","JpJomo1",-11900,"n","n",NA
+"Kansai","JpJomo1",-11800,"n","n",NA
+"Kansai","JpJomo1",-11700,"n","n",NA
+"Kansai","JpJomo1",-11600,"n","n",NA
+"Kansai","JpJomo1",-11500,"n","n",NA
+"Kansai","JpJomo1",-11400,"n","n",NA
+"Kansai","JpJomo1",-11300,"n","n",NA
+"Kansai","JpJomo1",-11200,"n","n",NA
+"Kansai","JpJomo1",-11100,"n","n",NA
+"Kansai","JpJomo1",-11000,"n","n",NA
+"Kansai","JpJomo1",-10900,"n","n",NA
+"Kansai","JpJomo1",-10800,"n","n",NA
+"Kansai","JpJomo1",-10700,"n","n",NA
+"Kansai","JpJomo1",-10600,"n","n",NA
+"Kansai","JpJomo1",-10500,"n","n",NA
+"Kansai","JpJomo1",-10400,"n","n",NA
+"Kansai","JpJomo1",-10300,"n","n",NA
+"Kansai","JpJomo1",-10200,"n","n",NA
+"Kansai","JpJomo1",-10100,"n","n",NA
+"Kansai","JpJomo1",-10000,"n","n",0
+"Kansai","JpJomo1",-9900,"n","n",0
+"Kansai","JpJomo1",-9800,"n","n",0
+"Kansai","JpJomo1",-9700,"n","n",0
+"Kansai","JpJomo1",-9600,"n","n",0
+"Kansai","JpJomo1",-9500,"n","n",0
+"Kansai","JpJomo1",-9400,"n","n",0
+"Kansai","JpJomo1",-9300,"n","n",0
+"Kansai","JpJomo2",-9200,"y","n",0
+"Kansai","JpJomo2",-9100,"n","n",0
+"Kansai","JpJomo2",-9000,"n","n",0
+"Kansai","JpJomo2",-8900,"n","n",0
+"Kansai","JpJomo2",-8800,"n","n",0
+"Kansai","JpJomo2",-8700,"n","n",0
+"Kansai","JpJomo2",-8600,"n","n",0
+"Kansai","JpJomo2",-8500,"n","n",0
+"Kansai","JpJomo2",-8400,"n","n",0
+"Kansai","JpJomo2",-8300,"n","n",0
+"Kansai","JpJomo2",-8200,"n","n",0
+"Kansai","JpJomo2",-8100,"n","n",0
+"Kansai","JpJomo2",-8000,"n","n",0
+"Kansai","JpJomo2",-7900,"n","n",0
+"Kansai","JpJomo2",-7800,"n","n",0
+"Kansai","JpJomo2",-7700,"n","n",0
+"Kansai","JpJomo2",-7600,"n","n",0
+"Kansai","JpJomo2",-7500,"n","n",0
+"Kansai","JpJomo2",-7400,"n","n",0
+"Kansai","JpJomo2",-7300,"n","n",0
+"Kansai","JpJomo2",-7200,"n","n",0
+"Kansai","JpJomo2",-7100,"n","n",0
+"Kansai","JpJomo2",-7000,"n","n",0
+"Kansai","JpJomo2",-6900,"n","n",0
+"Kansai","JpJomo2",-6800,"n","n",0
+"Kansai","JpJomo2",-6700,"n","n",0
+"Kansai","JpJomo2",-6600,"n","n",0
+"Kansai","JpJomo2",-6500,"n","n",0
+"Kansai","JpJomo2",-6400,"n","n",0
+"Kansai","JpJomo2",-6300,"n","n",0
+"Kansai","JpJomo2",-6200,"n","n",0
+"Kansai","JpJomo2",-6100,"n","n",0
+"Kansai","JpJomo2",-6000,"n","n",0
+"Kansai","JpJomo2",-5900,"n","n",0
+"Kansai","JpJomo2",-5800,"n","n",0
+"Kansai","JpJomo2",-5700,"n","n",0
+"Kansai","JpJomo2",-5600,"n","n",0
+"Kansai","JpJomo2",-5500,"n","n",0
+"Kansai","JpJomo2",-5400,"n","n",0
+"Kansai","JpJomo3",-5300,"y","n",0
+"Kansai","JpJomo3",-5200,"n","n",0
+"Kansai","JpJomo3",-5100,"n","n",0
+"Kansai","JpJomo3",-5000,"n","n",0
+"Kansai","JpJomo3",-4900,"n","n",0
+"Kansai","JpJomo3",-4800,"n","n",0
+"Kansai","JpJomo3",-4700,"n","n",0
+"Kansai","JpJomo3",-4600,"n","n",0
+"Kansai","JpJomo3",-4500,"n","n",0
+"Kansai","JpJomo3",-4400,"n","n",0
+"Kansai","JpJomo3",-4300,"n","n",0
+"Kansai","JpJomo3",-4200,"n","n",0
+"Kansai","JpJomo3",-4100,"n","n",0
+"Kansai","JpJomo3",-4000,"n","n",0
+"Kansai","JpJomo3",-3900,"n","n",0
+"Kansai","JpJomo3",-3800,"n","n",0
+"Kansai","JpJomo3",-3700,"n","n",0
+"Kansai","JpJomo3",-3600,"n","n",0
+"Kansai","JpJomo4",-3500,"y","n",0
+"Kansai","JpJomo4",-3400,"n","n",0
+"Kansai","JpJomo4",-3300,"n","n",0
+"Kansai","JpJomo4",-3200,"n","n",0
+"Kansai","JpJomo4",-3100,"n","n",0
+"Kansai","JpJomo4",-3000,"n","n",0
+"Kansai","JpJomo4",-2900,"n","n",0
+"Kansai","JpJomo4",-2800,"n","n",0
+"Kansai","JpJomo4",-2700,"n","n",0
+"Kansai","JpJomo4",-2600,"n","n",0
+"Kansai","JpJomo5",-2500,"y","n",0
+"Kansai","JpJomo5",-2400,"n","n",0
+"Kansai","JpJomo5",-2300,"n","n",0
+"Kansai","JpJomo5",-2200,"n","n",0
+"Kansai","JpJomo5",-2100,"n","n",0
+"Kansai","JpJomo5",-2000,"n","n",0
+"Kansai","JpJomo5",-1900,"n","n",0
+"Kansai","JpJomo5",-1800,"n","n",0
+"Kansai","JpJomo5",-1700,"n","n",0
+"Kansai","JpJomo5",-1600,"n","n",0
+"Kansai","JpJomo5",-1500,"n","n",0
+"Kansai","JpJomo5",-1400,"n","n",0
+"Kansai","JpJomo5",-1300,"n","n",0
+"Kansai","JpJomo6",-1200,"y","n",0
+"Kansai","JpJomo6",-1100,"n","n",0
+"Kansai","JpJomo6",-1000,"n","n",0
+"Kansai","JpJomo6",-900,"n","n",0
+"Kansai","JpJomo6",-800,"n","n",0
+"Kansai","JpJomo6",-700,"n","n",0
+"Kansai","JpJomo6",-600,"n","n",0
+"Kansai","JpJomo6",-500,"n","n",0
+"Kansai","JpJomo6",-400,"n","n",0
+"Kansai","JpYayoi",-300,"y","n",0
+"Kansai","JpYayoi",-200,"n","n",0
+"Kansai","JpYayoi",-100,"n","n",0
+"Kansai","JpYayoi",0,"n","n",0
+"Kansai","JpYayoi",100,"y","n",0
+"Kansai","JpYayoi",200,"y","n",0
+"Kansai","JpKofun",300,"y","n",0
+"Kansai","JpKofun",400,"y","n",0
+"Kansai","JpKofun",500,"y","n",0
+"Kansai","JpAsuka",600,"y","n",0
+"Kansai","JpAsuka",700,"y","n",0
+"Kansai","JpNara*",800,"y","y",0
+"Kansai","JpNara*",700,"y","y",0
+"Kansai","JpHeian",800,"y","n",0
+"Kansai","JpHeian",900,"y","n",0
+"Kansai","JpHeian",1000,"y","n",0
+"Kansai","JpHeian",1100,"y","n",0
+"Kansai","JpKamak",1200,"y","n",0
+"Kansai","JpKamak",1300,"y","n",0
+"Kansai","JpAshik",1400,"y","n",0
+"Kansai","JpSengk",1500,"y","n",0
+"Kansai","JpAzMom",1600,"y","n",0
+"Kansai","JpTokgw",1700,"y","n",0
+"Kansai","JpTokgw",1800,"y","n",0
+"Southern China Hills","CnHQngL",1800,"y","n",1
+"Southern China Hills","CnHChin",1900,"y","n",1
+"Big Island Hawaii","Hawaii1",1000,"y","n",0
+"Big Island Hawaii","Hawaii1",1100,"n","n",0
+"Big Island Hawaii","Hawaii2",1200,"y","n",0
+"Big Island Hawaii","Hawaii2",1300,"y","n",0
+"Big Island Hawaii","Hawaii2",1400,"y","n",0
+"Big Island Hawaii","Hawaii2",1500,"y","n",0
+"Big Island Hawaii","Hawaii2",1600,"y","n",0
+"Big Island Hawaii","Hawaii3",1700,"y","n",0
+"Big Island Hawaii","USKameh",1800,"y","n",2
+"Oro PNG","PgOrokE",1800,"y","n",0
+"Oro PNG","PgOrokL",1900,"y","n",0
+"Chuuk Islands","FmTrukE",1800,"y","n",0
+"Chuuk Islands","FmTrukL",1900,"y","n",0
+"Valley of Oaxaca","MxTieLa",-1400,"y","n",0
+"Valley of Oaxaca","MxTieLa",-1300,"n","n",0
+"Valley of Oaxaca","MxTieLa",-1200,"n","n",0
+"Valley of Oaxaca","MxSanGu",-1100,"y","n",0
+"Valley of Oaxaca","MxSanGu",-1000,"n","n",0
+"Valley of Oaxaca","MxSanGu",-900,"n","n",0
+"Valley of Oaxaca","MxSanGu",-800,"n","n",0
+"Valley of Oaxaca","MxRosar",-700,"y","n",0
+"Valley of Oaxaca","MxRosar",-600,"n","n",0
+"Valley of Oaxaca","MxAlb1E",-500,"y","n",0
+"Valley of Oaxaca","MxAlb1E",-400,"y","n",0
+"Valley of Oaxaca","MxAlb1L",-300,"y","n",0
+"Valley of Oaxaca","MxAlb1L",-200,"n","n",0
+"Valley of Oaxaca","MxAlb2*",-100,"y","n",0
+"Valley of Oaxaca","MxAlb2*",0,"n","n",0
+"Valley of Oaxaca","MxAlb2*",100,"n","n",0
+"Valley of Oaxaca","MxAlb3A",200,"y","n",0
+"Valley of Oaxaca","MxAlb3A",300,"n","n",0
+"Valley of Oaxaca","MxAlb3A",400,"n","n",0
+"Valley of Oaxaca","MxAlb3B",500,"y","n",0
+"Valley of Oaxaca","MxAlb3B",600,"n","n",0
+"Valley of Oaxaca","MxAlb3B",700,"n","n",0
+"Valley of Oaxaca","MxAlb3B",800,"y","n",0
+"Valley of Oaxaca","MxAlb5*",900,"y","n",0
+"Valley of Oaxaca","MxAlb5*",1000,"n","n",0
+"Valley of Oaxaca","MxAlb5*",1100,"n","n",0
+"Valley of Oaxaca","MxAlb5*",1200,"n","n",0
+"Valley of Oaxaca","MxAlb5*",1300,"n","n",0
+"Valley of Oaxaca","MxAlb5*",1400,"n","n",0
+"Valley of Oaxaca","MxAlb5*",1500,"n","n",0
+"Valley of Oaxaca","EsHabsb",1600,"y","y",0
+"Valley of Oaxaca","EsHabsb",1700,"n","y",2
+"Basin of Mexico","MxArch*",-6000,"y","n",0
+"Basin of Mexico","MxArch*",-5900,"n","n",0
+"Basin of Mexico","MxArch*",-5800,"n","n",0
+"Basin of Mexico","MxArch*",-5700,"n","n",0
+"Basin of Mexico","MxArch*",-5600,"n","n",0
+"Basin of Mexico","MxArch*",-5500,"n","n",0
+"Basin of Mexico","MxArch*",-5400,"n","n",0
+"Basin of Mexico","MxArch*",-5300,"n","n",0
+"Basin of Mexico","MxArch*",-5200,"n","n",0
+"Basin of Mexico","MxArch*",-5100,"n","n",0
+"Basin of Mexico","MxArch*",-5000,"n","n",0
+"Basin of Mexico","MxArch*",-4900,"n","n",0
+"Basin of Mexico","MxArch*",-4800,"n","n",0
+"Basin of Mexico","MxArch*",-4700,"n","n",0
+"Basin of Mexico","MxArch*",-4600,"n","n",0
+"Basin of Mexico","MxArch*",-4500,"n","n",0
+"Basin of Mexico","MxArch*",-4400,"n","n",0
+"Basin of Mexico","MxArch*",-4300,"n","n",0
+"Basin of Mexico","MxArch*",-4200,"n","n",0
+"Basin of Mexico","MxArch*",-4100,"n","n",0
+"Basin of Mexico","MxArch*",-4000,"y","n",0
+"Basin of Mexico","MxArch*",-3900,"n","n",0
+"Basin of Mexico","MxArch*",-3800,"n","n",0
+"Basin of Mexico","MxArch*",-3700,"n","n",0
+"Basin of Mexico","MxArch*",-3600,"n","n",0
+"Basin of Mexico","MxArch*",-3500,"n","n",0
+"Basin of Mexico","MxArch*",-3400,"n","n",0
+"Basin of Mexico","MxArch*",-3300,"n","n",0
+"Basin of Mexico","MxArch*",-3200,"n","n",0
+"Basin of Mexico","MxArch*",-3100,"n","n",0
+"Basin of Mexico","MxArch*",-3000,"n","n",0
+"Basin of Mexico","MxArch*",-2900,"n","n",0
+"Basin of Mexico","MxArch*",-2800,"n","n",0
+"Basin of Mexico","MxArch*",-2700,"n","n",0
+"Basin of Mexico","MxArch*",-2600,"n","n",0
+"Basin of Mexico","MxArch*",-2500,"n","n",0
+"Basin of Mexico","MxArch*",-2400,"n","n",0
+"Basin of Mexico","MxArch*",-2300,"n","n",0
+"Basin of Mexico","MxArch*",-2200,"n","n",0
+"Basin of Mexico","MxArch*",-2100,"n","n",0
+"Basin of Mexico","MxInitl",-2000,"y","n",0
+"Basin of Mexico","MxInitl",-1900,"n","n",0
+"Basin of Mexico","MxInitl",-1800,"n","n",0
+"Basin of Mexico","MxInitl",-1700,"n","n",0
+"Basin of Mexico","MxInitl",-1600,"n","n",0
+"Basin of Mexico","MxInitl",-1500,"n","n",0
+"Basin of Mexico","MxInitl",-1400,"y","n",0
+"Basin of Mexico","MxInitl",-1300,"n","n",0
+"Basin of Mexico","MxFormE",-1200,"y","n",0
+"Basin of Mexico","MxFormE",-1100,"n","n",0
+"Basin of Mexico","MxFormE",-1000,"n","n",0
+"Basin of Mexico","MxFormE",-900,"y","n",0
+"Basin of Mexico","MxFormM",-800,"y","n",0
+"Basin of Mexico","MxFormM",-700,"n","n",0
+"Basin of Mexico","MxFormM",-600,"n","n",0
+"Basin of Mexico","MxFormM",-500,"n","n",0
+"Basin of Mexico","MxFormL",-400,"y","n",0
+"Basin of Mexico","MxFormL",-300,"y","n",0
+"Basin of Mexico","MxFormL",-200,"n","n",0
+"Basin of Mexico","MxFormT",-100,"y","n",0
+"Basin of Mexico","MxFormT",0,"y","n",0
+"Basin of Mexico","MxClass",100,"y","n",0
+"Basin of Mexico","MxClass",200,"n","n",0
+"Basin of Mexico","MxClass",300,"n","n",0
+"Basin of Mexico","MxClass",400,"n","n",0
+"Basin of Mexico","MxClass",500,"n","n",0
+"Basin of Mexico","MxClass",600,"n","n",0
+"Basin of Mexico","MxEpicl",700,"y","n",0
+"Basin of Mexico","MxEpicl",800,"n","n",0
+"Basin of Mexico","MxToltc",900,"y","n",0
+"Basin of Mexico","MxToltc",1000,"n","n",0
+"Basin of Mexico","MxToltc",1100,"n","n",0
+"Basin of Mexico","MxPostM",1200,"y","n",0
+"Basin of Mexico","MxPostM",1300,"y","n",0
+"Basin of Mexico","MxPostM",1400,"n","n",0
+"Basin of Mexico","MxAztec",1500,"y","n",0
+"Cahokia","USMisEW",-600,"y","n",0
+"Cahokia","USMisEW",-500,"n","n",0
+"Cahokia","USMisEW",-400,"n","n",0
+"Cahokia","USMisEW",-300,"n","n",0
+"Cahokia","USMisEW",-200,"n","n",0
+"Cahokia","USMisMW",-100,"y","n",0
+"Cahokia","USMisMW",0,"n","n",0
+"Cahokia","USMisMW",100,"n","n",0
+"Cahokia","USMisMW",200,"n","n",0
+"Cahokia","USMisRo",300,"y","n",0
+"Cahokia","USMisRo",400,"n","n",0
+"Cahokia","USMisMu",500,"y","n",0
+"Cahokia","USMisPa",600,"y","n",0
+"Cahokia","USMisPa",700,"n","n",0
+"Cahokia","USMisSp",800,"y","n",0
+"Cahokia","USMisME",900,"y","n",0
+"Cahokia","USMisME",1000,"n","n",0
+"Cahokia","USCahoE",1100,"y","n",0
+"Cahokia","USCahoL",1200,"y","n",0
+"Cahokia","USMisSd",1300,"y","n",0
+"Cahokia","USOneot",1400,"y","n",0
+"Cahokia","USOneot",1500,"n","n",0
+"Cahokia","USOneot",1600,"y","n",0
+"Cahokia","USIllin",1700,"y","n",1
+"Finger Lakes","UsIroqP",1300,"y","n",0
+"Finger Lakes","UsIroqP",1400,"n","n",0
+"Finger Lakes","UsIroqP",1500,"n","n",0
+"Finger Lakes","UsIroqE",1600,"y","n",0
+"Finger Lakes","UsIroqE",1700,"y","n",1
+"Finger Lakes","UsIroqL",1800,"y","n",1
+"Cuzco","PeCuzLF",100,"y","n",3
+"Cuzco","PeCuzE1",200,"y","n",3
+"Cuzco","PeCuzE1",300,"n","n",3
+"Cuzco","PeCuzE1",400,"y","n",3
+"Cuzco","PeCuzE2",500,"y","n",3
+"Cuzco","PeCuzE2",600,"n","n",3
+"Cuzco","PeWari*",700,"y","n",3
+"Cuzco","PeWari*",800,"n","n",3
+"Cuzco","PeWari*",900,"n","n",3
+"Cuzco","PeCuzL1",1000,"y","n",3
+"Cuzco","PeCuzL1",1100,"n","n",3
+"Cuzco","PeCuzL1",1200,"n","n",3
+"Cuzco","PeCuzL2",1300,"y","n",3
+"Cuzco","PeInca*",1400,"y","n",3
+"Cuzco","PeInca*",1500,"y","n",3
+"Cuzco","EsHabsb",1600,"y","n",3
+"Cuzco","EsHabsb",1700,"y","n",3
+"North Colombia","CoNahua",300,"y","n",2
+"North Colombia","CoNahua",400,"n","n",2
+"North Colombia","CoNahua",500,"n","n",2
+"North Colombia","CoNahua",600,"y","n",2
+"North Colombia","CoNahua",700,"y","n",2
+"North Colombia","CoNahua",800,"y","n",2
+"North Colombia","CoNahua",900,"n","n",2
+"North Colombia","CoNahua",1000,"n","n",2
+"North Colombia","CoTairo",1100,"y","n",2
+"North Colombia","CoTairo",1200,"y","n",2
+"North Colombia","CoTairo",1300,"n","n",2
+"North Colombia","CoTairo",1400,"y","n",2
+"North Colombia","CoTairo",1500,"y","n",2
+"Lowland Andes","EcJivaE",1600,"y","n",0
+"Lowland Andes","EcJivaE",1700,"y","n",1
+"Lowland Andes","EcJivaE",1800,"n","n",2
+"Lowland Andes","EcJivaL",1900,"y","n",2
